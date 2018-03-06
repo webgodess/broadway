@@ -1,3 +1,20 @@
-body {
-    background: white;
+h1{
+	font-family: Helvetica;
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+
+}
+
+.header{
+	display: block;
+	background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
+
+body{background-color: white;
+}
+.navbar{
+	font-family: helvetica;
+	font-size: 18px;
+	color: white;
 }
